@@ -1,6 +1,5 @@
 .DS_Store
-client/accounts
-client/accounts/*
+
 node_modules/
 
 settings.json
