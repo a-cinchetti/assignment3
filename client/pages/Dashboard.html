@@ -1,3 +1,16 @@
 <template name="Dashboard">
+    {{#if admin}}
     <h1 class="page-title">Dashboard</h1>
+    <div>
+        <h3>Hello {{currentUser.username}}. <br></h3>
+    </div>
+    <h3>In the dashboard page you can manage user accounts. In particular you can see the users list.</h3>
+        <h5 style="color:#1b66ff">Note: only an admin can use the dashboard</h5>
+        <div class="btn-group">
+            <a href="/admin/users" class="btn-primary">Users List</a>
+        </div>
+    {{else}}
+        <h1>EH, you wanted <img src="/asso.png" alt="Mountain View" width="700"  align="top"></h1>
+
+    {{/if}}
 </template>

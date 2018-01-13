@@ -222,10 +222,15 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/template.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/generator.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/template-web.cordova.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/okgrow_router-autoscroll/0.1.8/web.browser/client/hot-code-push.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/template-web.browser.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/okgrow_router-autoscroll/0.1.8/web.browser/client/router-autoscroll.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/preamble.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/tojs.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/tokens.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/client/subscriptions.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/client/uiHelpers.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/client/debug.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/domrange.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/preamble.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/builtins.js" />
@@ -252,6 +257,7 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/client_convenience.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/livedata_common.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/stream_client_sockjs.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/roles_common.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/stream_client_tests.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/stream_client_common.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/sockjs-0.3.4.js" />
@@ -569,10 +575,15 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/template.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/generator.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/template-web.cordova.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/okgrow_router-autoscroll/0.1.8/web.browser/client/hot-code-push.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.3.1/web.browser/template-web.browser.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/okgrow_router-autoscroll/0.1.8/web.browser/client/router-autoscroll.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/preamble.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/tojs.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/tokens.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/client/subscriptions.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/client/uiHelpers.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/client/debug.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/domrange.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/preamble.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/builtins.js" />
@@ -599,6 +610,7 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/client_convenience.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/livedata_common.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/stream_client_sockjs.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/alanning_roles/1.2.16/web.browser/roles_common.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/stream_client_tests.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/stream_client_common.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/2.2.0/web.browser/sockjs-0.3.4.js" />

@@ -114,15 +114,22 @@ input[type="password"] {
 .login-toggle {
     cursor: pointer;
 }
+.logout{
+    cursor: pointer;
+}
 
 
 // Homepage
 .billboard {
-    background-image: url('/met-stars.png'), linear-gradient(#202023, #19283f);
+    background-image: url('/earth_horizon.jpg');
+    height: 100%;
+    margin: auto;
+    background-size: cover;
+    background-position: center ;
     color: #FFF;
     text-align: center;
-    border-bottom: 1px solid $dgrey;
-    padding: 40px 5%;
+    background-repeat: no-repeat;
+    padding:  5%;
 }
 
 
@@ -214,4 +221,32 @@ table {
 .user_id {
     color: $blue;
     cursor: pointer;
+}
+
+.user-edit {
+    position  : absolute;
+    left      : -300px;
+    top       : 0;
+    background: #FFF;
+    z-index   : 10;
+    padding   : 20px;
+    width     : 280px;
+    opacity   : 0;
+    transition: all 0.4s cubic-bezier(0.68, -0.65, 0.265, 1.20);
+    @include card(2);
+
+    .close-edit-mode {
+        position      : absolute;
+        top           : 0;
+        right         : 10px;
+        padding       : 20px;
+        font-size     : 1.2em;
+        font-weight   : 900;
+        text-transform: uppercase;
+        cursor        : pointer;
+    }
+}
+
+.edit-mode .user-edit {
+    opacity: 1;
 }

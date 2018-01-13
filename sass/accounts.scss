@@ -2,6 +2,8 @@
 
 .login-modal {
     position: fixed;
+    overflow:auto;
+    height: 69%;
     border: solid 4px $dblue;
     top: 20%;
     left: 50%;
